@@ -1,0 +1,14 @@
+[
+  {
+    "id": "class3",
+    "name": "우리들의 영원한 3반",
+    "description": "그 시절, 교실에 남아 있는 우리의 이야기",
+    "image": "https://raw.githubusercontent.com/USER/REPO/main/preview/class3.png",
+    "ios": {
+      "url": "https://github.com/USER/REPO/releases/download/v1.0/Class3.ktheme"
+    },
+    "android": {
+      "url": "https://github.com/USER/REPO/releases/download/v1.0/Class3.apk"
+    }
+  }
+]
